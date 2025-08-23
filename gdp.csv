@@ -1,0 +1,267 @@
+indicator,country,countryiso3code,date,value,unit,obs_status,decimal,abb
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",AFE,2020,-2.85978392104712,,,1,ZH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZI', 'value': 'Africa Western and Central'}",AFW,2020,-0.984117425153343,,,1,ZI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': '1A', 'value': 'Arab World'}",ARB,2020,-4.75714499576827,,,1,1A
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'S3', 'value': 'Caribbean small states'}",CSS,2020,-9.11325310356304,,,1,S3
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'B8', 'value': 'Central Europe and the Baltics'}",CEB,2020,-3.31536810484134,,,1,B8
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'V2', 'value': 'Early-demographic dividend'}",EAR,2020,-4.21530436632986,,,1,V2
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'Z4', 'value': 'East Asia & Pacific'}",EAS,2020,-0.0541286733685524,,,1,Z4
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",EAP,2020,1.34528896450408,,,1,4E
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",TEA,2020,1.34517813817452,,,1,T4
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XC', 'value': 'Euro area'}",EMU,2020,-6.04639111246462,,,1,XC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'Z7', 'value': 'Europe & Central Asia'}",ECS,2020,-5.40788496163324,,,1,Z7
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",ECA,2020,0.295023816819608,,,1,7E
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",TEC,2020,-1.46161084602306,,,1,T7
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'EU', 'value': 'European Union'}",EUU,2020,-5.57343288385174,,,1,EU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",FCS,2020,-5.0247096075292,,,1,F1
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",HPC,2020,0.239495193485297,,,1,XE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XD', 'value': 'High income'}",,2020,-3.87451598682036,,,1,XD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XF', 'value': 'IBRD only'}",IBD,2020,-1.24910026802469,,,1,XF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZT', 'value': 'IDA & IBRD total'}",IBT,2020,-1.21968122140599,,,1,ZT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XH', 'value': 'IDA blend'}",IDB,2020,-1.41832538944141,,,1,XH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XI', 'value': 'IDA only'}",IDX,2020,-0.315913885705115,,,1,XI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XG', 'value': 'IDA total'}",IDA,2020,-0.858539024490796,,,1,XG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'V3', 'value': 'Late-demographic dividend'}",LTE,2020,0.30369377978883,,,1,V3
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",LCN,2020,-6.61772497533029,,,1,ZJ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",LAC,2020,-6.5236090907036,,,1,XJ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",TLA,2020,-6.52902364043537,,,1,T2
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XL', 'value': 'Least developed countries: UN classification'}",LDC,2020,-0.0998965241378897,,,1,XL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XO', 'value': 'Low & middle income'}",LMY,2020,-1.05744327400045,,,1,XO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XM', 'value': 'Low income'}",,2020,-1.04416700524122,,,1,XM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XN', 'value': 'Lower middle income'}",,2020,-3.60166727252461,,,1,XN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZQ', 'value': 'Middle East, North Africa, Afghanistan & Pakistan'}",MEA,2020,-3.30783118370476,,,1,ZQ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XQ', 'value': 'Middle East, North Africa, Afghanistan & Pakistan (excluding high income)'}",MNA,2020,-2.86087724971401,,,1,XQ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'T3', 'value': 'Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)'}",TMN,2020,-2.79396103092033,,,1,T3
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XP', 'value': 'Middle income'}",MIC,2020,-1.05760642757629,,,1,XP
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XU', 'value': 'North America'}",NAC,2020,-2.38760840938158,,,1,XU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XY', 'value': 'Not classified'}",,2020,,,,1,XY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'OE', 'value': 'OECD members'}",OED,2020,-3.90217697222566,,,1,OE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'S4', 'value': 'Other small states'}",OSS,2020,-5.79719347818805,,,1,S4
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'S2', 'value': 'Pacific island small states'}",PSS,2020,-10.1509279374191,,,1,S2
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'V4', 'value': 'Post-demographic dividend'}",PST,2020,-4.07885321043369,,,1,V4
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'V1', 'value': 'Pre-demographic dividend'}",PRE,2020,-2.53540855344315,,,1,V1
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'S1', 'value': 'Small states'}",SST,2020,-6.94107249427535,,,1,S1
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': '8S', 'value': 'South Asia'}",SAS,2020,-4.98750173641923,,,1,8S
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'T5', 'value': 'South Asia (IDA & IBRD)'}",TSA,2020,-4.98750173641923,,,1,T5
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZG', 'value': 'Sub-Saharan Africa'}",SSF,2020,-1.99429357937264,,,1,ZG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZF', 'value': 'Sub-Saharan Africa (excluding high income)'}",SSA,2020,-2.39734821680695,,,1,ZF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'T6', 'value': 'Sub-Saharan Africa (IDA & IBRD countries)'}",TSS,2020,-1.99429357937262,,,1,T6
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XT', 'value': 'Upper middle income'}",,2020,-0.39838293366607,,,1,XT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': '1W', 'value': 'World'}",WLD,2020,-2.84908234670684,,,1,1W
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AF', 'value': 'Afghanistan'}",AFG,2020,-2.35110067203466,,,1,AF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AL', 'value': 'Albania'}",ALB,2020,-3.31375636888916,,,1,AL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'DZ', 'value': 'Algeria'}",DZA,2020,-4.99999999908597,,,1,DZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AS', 'value': 'American Samoa'}",ASM,2020,4.41176470588236,,,1,AS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AD', 'value': 'Andorra'}",AND,2020,-11.1839399355384,,,1,AD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AO', 'value': 'Angola'}",AGO,2020,-5.63821471714934,,,1,AO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AG', 'value': 'Antigua and Barbuda'}",ATG,2020,-18.8687765208148,,,1,AG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AR', 'value': 'Argentina'}",ARG,2020,-9.9004848136464,,,1,AR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AM', 'value': 'Armenia'}",ARM,2020,-7.19999999920631,,,1,AM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AW', 'value': 'Aruba'}",ABW,2020,-26.2118202145169,,,1,AW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AU', 'value': 'Australia'}",AUS,2020,-0.119590735829973,,,1,AU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AT', 'value': 'Austria'}",AUT,2020,-6.31825509209936,,,1,AT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AZ', 'value': 'Azerbaijan'}",AZE,2020,-4.19896079231232,,,1,AZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BS', 'value': 'Bahamas, The'}",BHS,2020,-20.0895554324841,,,1,BS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BH', 'value': 'Bahrain'}",BHR,2020,-5.9113629524152,,,1,BH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BD', 'value': 'Bangladesh'}",BGD,2020,3.44801755122445,,,1,BD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BB', 'value': 'Barbados'}",BRB,2020,-15.0543629495892,,,1,BB
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BY', 'value': 'Belarus'}",BLR,2020,-0.67274295062424,,,1,BY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BE', 'value': 'Belgium'}",BEL,2020,-4.7929839083518,,,1,BE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BZ', 'value': 'Belize'}",BLZ,2020,-13.9029100645218,,,1,BZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BJ', 'value': 'Benin'}",BEN,2020,3.84879240030133,,,1,BJ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BM', 'value': 'Bermuda'}",BMU,2020,-6.82757303480177,,,1,BM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BT', 'value': 'Bhutan'}",BTN,2020,-10.2183974208569,,,1,BT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BO', 'value': 'Bolivia'}",BOL,2020,-8.7378843576993,,,1,BO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BA', 'value': 'Bosnia and Herzegovina'}",BIH,2020,-3.01509514759861,,,1,BA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BW', 'value': 'Botswana'}",BWA,2020,-8.72888241149465,,,1,BW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BR', 'value': 'Brazil'}",BRA,2020,-3.2767587964736,,,1,BR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'VG', 'value': 'British Virgin Islands'}",VGB,2020,,,,1,VG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BN', 'value': 'Brunei Darussalam'}",BRN,2020,1.13357340605403,,,1,BN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BG', 'value': 'Bulgaria'}",BGR,2020,-3.21573743445016,,,1,BG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BF', 'value': 'Burkina Faso'}",BFA,2020,2.01077262406221,,,1,BF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'BI', 'value': 'Burundi'}",BDI,2020,0.327156892638385,,,1,BI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CV', 'value': 'Cabo Verde'}",CPV,2020,-20.8052758990735,,,1,CV
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KH', 'value': 'Cambodia'}",KHM,2020,-3.55572193406549,,,1,KH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CM', 'value': 'Cameroon'}",CMR,2020,0.259932915907115,,,1,CM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CA', 'value': 'Canada'}",CAN,2020,-5.03823343468899,,,1,CA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KY', 'value': 'Cayman Islands'}",CYM,2020,-4.95480640759244,,,1,KY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CF', 'value': 'Central African Republic'}",CAF,2020,0.899999996857062,,,1,CF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TD', 'value': 'Chad'}",TCD,2020,-0.408894363255357,,,1,TD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'JG', 'value': 'Channel Islands'}",CHI,2020,-8.89677926591959,,,1,JG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CL', 'value': 'Chile'}",CHL,2020,-6.14347479224092,,,1,CL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CN', 'value': 'China'}",CHN,2020,2.34018843078414,,,1,CN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CO', 'value': 'Colombia'}",COL,2020,-7.18591413760859,,,1,CO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KM', 'value': 'Comoros'}",COM,2020,4.00531793513311,,,1,KM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CD', 'value': 'Congo, Dem. Rep.'}",COD,2020,1.73542276681493,,,1,CD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CG', 'value': 'Congo, Rep.'}",COG,2020,-6.26777227963225,,,1,CG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CR', 'value': 'Costa Rica'}",CRI,2020,-4.27335432161462,,,1,CR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CI', 'value': ""Cote d'Ivoire""}",CIV,2020,0.699728593494228,,,1,CI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'HR', 'value': 'Croatia'}",HRV,2020,-8.31164257884687,,,1,HR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CU', 'value': 'Cuba'}",CUB,2020,-10.9490846048862,,,1,CU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CW', 'value': 'Curacao'}",CUW,2020,-18.4384703505394,,,1,CW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CY', 'value': 'Cyprus'}",CYP,2020,-3.22063018637567,,,1,CY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CZ', 'value': 'Czechia'}",CZE,2020,-5.30487955463876,,,1,CZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'DK', 'value': 'Denmark'}",DNK,2020,-1.78010601831291,,,1,DK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'DJ', 'value': 'Djibouti'}",DJI,2020,1.2021151728969,,,1,DJ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'DM', 'value': 'Dominica'}",DMA,2020,-15.7064024545862,,,1,DM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'DO', 'value': 'Dominican Republic'}",DOM,2020,-7.92905234231061,,,1,DO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'EC', 'value': 'Ecuador'}",ECU,2020,-9.24509619165865,,,1,EC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'EG', 'value': 'Egypt, Arab Rep.'}",EGY,2020,3.55016483786838,,,1,EG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SV', 'value': 'El Salvador'}",SLV,2020,-7.893101359867,,,1,SV
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GQ', 'value': 'Equatorial Guinea'}",GNQ,2020,-4.79108083383294,,,1,GQ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ER', 'value': 'Eritrea'}",ERI,2020,,,,1,ER
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'EE', 'value': 'Estonia'}",EST,2020,-2.88380751483778,,,1,EE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SZ', 'value': 'Eswatini'}",SWZ,2020,-2.86288213677992,,,1,SZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ET', 'value': 'Ethiopia'}",ETH,2020,6.05953089054807,,,1,ET
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'FO', 'value': 'Faroe Islands'}",FRO,2020,-1.63732118017028,,,1,FO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'FJ', 'value': 'Fiji'}",FJI,2020,-17.0386673704039,,,1,FJ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'FI', 'value': 'Finland'}",FIN,2020,-2.49103605535707,,,1,FI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'FR', 'value': 'France'}",FRA,2020,-7.44064589948231,,,1,FR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PF', 'value': 'French Polynesia'}",PYF,2020,-7.05094422106298,,,1,PF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GA', 'value': 'Gabon'}",GAB,2020,-1.8377610635094,,,1,GA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GM', 'value': 'Gambia, The'}",GMB,2020,0.591487287873974,,,1,GM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GE', 'value': 'Georgia'}",GEO,2020,-6.2904717853839,,,1,GE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'DE', 'value': 'Germany'}",DEU,2020,-4.09513751682526,,,1,DE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GH', 'value': 'Ghana'}",GHA,2020,0.513941670628171,,,1,GH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GI', 'value': 'Gibraltar'}",GIB,2020,,,,1,GI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GR', 'value': 'Greece'}",GRC,2020,-9.19623149726978,,,1,GR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GL', 'value': 'Greenland'}",GRL,2020,0.250789762104304,,,1,GL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GD', 'value': 'Grenada'}",GRD,2020,-13.7566222572107,,,1,GD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GU', 'value': 'Guam'}",GUM,2020,-10.5188595714539,,,1,GU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GT', 'value': 'Guatemala'}",GTM,2020,-1.78555194467604,,,1,GT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GN', 'value': 'Guinea'}",GIN,2020,4.70459096113575,,,1,GN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GW', 'value': 'Guinea-Bissau'}",GNB,2020,2.12811490126288,,,1,GW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GY', 'value': 'Guyana'}",GUY,2020,43.479651716849,,,1,GY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'HT', 'value': 'Haiti'}",HTI,2020,-3.30550546965893,,,1,HT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'HN', 'value': 'Honduras'}",HND,2020,-8.96508223267296,,,1,HN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'HK', 'value': 'Hong Kong SAR, China'}",HKG,2020,-6.54478320166854,,,1,HK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'HU', 'value': 'Hungary'}",HUN,2020,-4.33872540024058,,,1,HU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IS', 'value': 'Iceland'}",ISL,2020,-6.94045306829003,,,1,IS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IN', 'value': 'India'}",IND,2020,-5.77772470686801,,,1,IN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ID', 'value': 'Indonesia'}",IDN,2020,-2.06551182934165,,,1,ID
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IR', 'value': 'Iran, Islamic Rep.'}",IRN,2020,3.33028845926594,,,1,IR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IQ', 'value': 'Iraq'}",IRQ,2020,-12.0367930931152,,,1,IQ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IE', 'value': 'Ireland'}",IRL,2020,7.1578988000836,,,1,IE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IM', 'value': 'Isle of Man'}",IMN,2020,-8.83681697473475,,,1,IM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IL', 'value': 'Israel'}",ISR,2020,-2.02161548237589,,,1,IL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'IT', 'value': 'Italy'}",ITA,2020,-8.86822122185345,,,1,IT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'JM', 'value': 'Jamaica'}",JAM,2020,-9.92032245054413,,,1,JM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'JP', 'value': 'Japan'}",JPN,2020,-4.16876457146743,,,1,JP
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'JO', 'value': 'Jordan'}",JOR,2020,-1.10275188309046,,,1,JO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KZ', 'value': 'Kazakhstan'}",KAZ,2020,-2.49999999628,,,1,KZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KE', 'value': 'Kenya'}",KEN,2020,-0.272766327438816,,,1,KE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KI', 'value': 'Kiribati'}",KIR,2020,-1.46806718078108,,,1,KI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KP', 'value': ""Korea, Dem. People's Rep.""}",PRK,2020,,,,1,KP
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KR', 'value': 'Korea, Rep.'}",KOR,2020,-0.709415359397681,,,1,KR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'XK', 'value': 'Kosovo'}",XKX,2020,-5.34027547826166,,,1,XK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KW', 'value': 'Kuwait'}",KWT,2020,-4.81778982257279,,,1,KW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KG', 'value': 'Kyrgyz Republic'}",KGZ,2020,-7.14897757727955,,,1,KG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LA', 'value': 'Lao PDR'}",LAO,2020,0.503031829018681,,,1,LA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LV', 'value': 'Latvia'}",LVA,2020,-3.46922750780554,,,1,LV
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LB', 'value': 'Lebanon'}",LBN,2020,-21.3998996914321,,,1,LB
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LS', 'value': 'Lesotho'}",LSO,2020,-8.15595879914267,,,1,LS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LR', 'value': 'Liberia'}",LBR,2020,-2.98249127649473,,,1,LR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LY', 'value': 'Libya'}",LBY,2020,-29.4552967282824,,,1,LY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LI', 'value': 'Liechtenstein'}",LIE,2020,,,,1,LI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LT', 'value': 'Lithuania'}",LTU,2020,0.0428158336981426,,,1,LT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LU', 'value': 'Luxembourg'}",LUX,2020,-0.510051634039826,,,1,LU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MO', 'value': 'Macao SAR, China'}",MAC,2020,-54.3361062745857,,,1,MO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MG', 'value': 'Madagascar'}",MDG,2020,-7.13767162064489,,,1,MG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MW', 'value': 'Malawi'}",MWI,2020,0.793596429787286,,,1,MW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MY', 'value': 'Malaysia'}",MYS,2020,-5.45684658426701,,,1,MY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MV', 'value': 'Maldives'}",MDV,2020,-32.9088287284425,,,1,MV
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ML', 'value': 'Mali'}",MLI,2020,-1.16907500952713,,,1,ML
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MT', 'value': 'Malta'}",MLT,2020,-3.35834253154739,,,1,MT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MH', 'value': 'Marshall Islands'}",MHL,2020,-2.77288732394366,,,1,MH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MR', 'value': 'Mauritania'}",MRT,2020,-0.360657384151068,,,1,MR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MU', 'value': 'Mauritius'}",MUS,2020,-14.5465381490166,,,1,MU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MX', 'value': 'Mexico'}",MEX,2020,-8.35403456576364,,,1,MX
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'FM', 'value': 'Micronesia, Fed. Sts.'}",FSM,2020,-1.67295417145529,,,1,FM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MD', 'value': 'Moldova'}",MDA,2020,-8.27597831976949,,,1,MD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MC', 'value': 'Monaco'}",MCO,2020,-13.2391048292108,,,1,MC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MN', 'value': 'Mongolia'}",MNG,2020,-4.55775197583431,,,1,MN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ME', 'value': 'Montenegro'}",MNE,2020,-15.3068937570407,,,1,ME
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MA', 'value': 'Morocco'}",MAR,2020,-7.17820744246774,,,1,MA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MZ', 'value': 'Mozambique'}",MOZ,2020,-1.21952250011192,,,1,MZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MM', 'value': 'Myanmar'}",MMR,2020,-9.04834717984643,,,1,MM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NA', 'value': 'Namibia'}",NAM,2020,-8.10140201443319,,,1,NA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NR', 'value': 'Nauru'}",NRU,2020,1.98181949377276,,,1,NR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NP', 'value': 'Nepal'}",NPL,2020,-2.3696206292072,,,1,NP
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NL', 'value': 'Netherlands'}",NLD,2020,-3.86795333823223,,,1,NL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NC', 'value': 'New Caledonia'}",NCL,2020,-2.40000000064407,,,1,NC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NZ', 'value': 'New Zealand'}",NZL,2020,-0.307246896026541,,,1,NZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NI', 'value': 'Nicaragua'}",NIC,2020,-2.23654176262323,,,1,NI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NE', 'value': 'Niger'}",NER,2020,3.55064109436891,,,1,NE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NG', 'value': 'Nigeria'}",NGA,2020,-1.79425308274458,,,1,NG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MK', 'value': 'North Macedonia'}",MKD,2020,-4.68845000956652,,,1,MK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MP', 'value': 'Northern Mariana Islands'}",MNP,2020,-29.0598290598291,,,1,MP
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'NO', 'value': 'Norway'}",NOR,2020,-1.27817177234034,,,1,NO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'OM', 'value': 'Oman'}",OMN,2020,-3.37972052697999,,,1,OM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PK', 'value': 'Pakistan'}",PAK,2020,-1.27408744338709,,,1,PK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PW', 'value': 'Palau'}",PLW,2020,-5.99943392532354,,,1,PW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PA', 'value': 'Panama'}",PAN,2020,-17.8212299695008,,,1,PA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PG', 'value': 'Papua New Guinea'}",PNG,2020,-3.16743204434815,,,1,PG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PY', 'value': 'Paraguay'}",PRY,2020,-0.819785390971916,,,1,PY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PE', 'value': 'Peru'}",PER,2020,-10.9333065010382,,,1,PE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PH', 'value': 'Philippines'}",PHL,2020,-9.51829474045297,,,1,PH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PL', 'value': 'Poland'}",POL,2020,-2.03556882399977,,,1,PL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PT', 'value': 'Portugal'}",PRT,2020,-8.20463201239903,,,1,PT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PR', 'value': 'Puerto Rico (US)'}",PRI,2020,-4.1808743093346,,,1,PR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'QA', 'value': 'Qatar'}",QAT,2020,-3.5576039896784,,,1,QA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'RO', 'value': 'Romania'}",ROU,2020,-3.67438440910189,,,1,RO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'RU', 'value': 'Russian Federation'}",RUS,2020,-2.65365450102773,,,1,RU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'RW', 'value': 'Rwanda'}",RWA,2020,-3.37368746369782,,,1,RW
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'WS', 'value': 'Samoa'}",WSM,2020,-3.10844401053139,,,1,WS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SM', 'value': 'San Marino'}",SMR,2020,-6.64791081780602,,,1,SM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ST', 'value': 'Sao Tome and Principe'}",STP,2020,2.62485949543812,,,1,ST
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SA', 'value': 'Saudi Arabia'}",SAU,2020,-3.80476473038999,,,1,SA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SN', 'value': 'Senegal'}",SEN,2020,1.3420737726679,,,1,SN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'RS', 'value': 'Serbia'}",SRB,2020,-0.950023991851594,,,1,RS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SC', 'value': 'Seychelles'}",SYC,2020,-11.7398608281732,,,1,SC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SL', 'value': 'Sierra Leone'}",SLE,2020,-1.2533490322766,,,1,SL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SG', 'value': 'Singapore'}",SGP,2020,-3.81470885510713,,,1,SG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SX', 'value': 'Sint Maarten (Dutch part)'}",SXM,2020,-13.3167887221567,,,1,SX
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SK', 'value': 'Slovak Republic'}",SVK,2020,-2.58551241733207,,,1,SK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SI', 'value': 'Slovenia'}",SVN,2020,-4.08500094942896,,,1,SI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SB', 'value': 'Solomon Islands'}",SLB,2020,-3.3811475409836,,,1,SB
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SO', 'value': 'Somalia'}",SOM,2020,-2.75248103928239,,,1,SO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZA', 'value': 'South Africa'}",ZAF,2020,-6.1689177146757,,,1,ZA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SS', 'value': 'South Sudan'}",SSD,2020,,,,1,SS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ES', 'value': 'Spain'}",ESP,2020,-10.9400706350371,,,1,ES
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LK', 'value': 'Sri Lanka'}",LKA,2020,-4.62451503749502,,,1,LK
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'KN', 'value': 'St. Kitts and Nevis'}",KNA,2020,-15.3018891740649,,,1,KN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'LC', 'value': 'St. Lucia'}",LCA,2020,-24.3614732129122,,,1,LC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'MF', 'value': 'St. Martin (French part)'}",MAF,2020,-12.500002246731,,,1,MF
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'VC', 'value': 'St. Vincent and the Grenadines'}",VCT,2020,-4.26892434422649,,,1,VC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SD', 'value': 'Sudan'}",SDN,2020,-3.62980082410752,,,1,SD
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SR', 'value': 'Suriname'}",SUR,2020,-15.9751917148622,,,1,SR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SE', 'value': 'Sweden'}",SWE,2020,-2.0053375219518,,,1,SE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'CH', 'value': 'Switzerland'}",CHE,2020,-2.14173712008038,,,1,CH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'SY', 'value': 'Syrian Arab Republic'}",SYR,2020,-0.697154504235129,,,1,SY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TJ', 'value': 'Tajikistan'}",TJK,2020,4.40000111553493,,,1,TJ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TZ', 'value': 'Tanzania'}",TZA,2020,1.99196460647855,,,1,TZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TH', 'value': 'Thailand'}",THA,2020,-6.05003846851622,,,1,TH
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TL', 'value': 'Timor-Leste'}",TLS,2020,31.961918565387,,,1,TL
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TG', 'value': 'Togo'}",TGO,2020,1.99215501870344,,,1,TG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TO', 'value': 'Tonga'}",TON,2020,1.78339589901164,,,1,TO
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TT', 'value': 'Trinidad and Tobago'}",TTO,2020,-8.90279446006656,,,1,TT
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TN', 'value': 'Tunisia'}",TUN,2020,-9.01193412390238,,,1,TN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TR', 'value': 'Turkiye'}",TUR,2020,1.85987303976462,,,1,TR
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TM', 'value': 'Turkmenistan'}",TKM,2020,5.900000048526,,,1,TM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TC', 'value': 'Turks and Caicos Islands'}",TCA,2020,-33.8170973434652,,,1,TC
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'TV', 'value': 'Tuvalu'}",TUV,2020,-4.27493206901397,,,1,TV
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'UG', 'value': 'Uganda'}",UGA,2020,2.95130642218098,,,1,UG
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'UA', 'value': 'Ukraine'}",UKR,2020,-3.75281793983162,,,1,UA
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'AE', 'value': 'United Arab Emirates'}",ARE,2020,-4.95705243303316,,,1,AE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'GB', 'value': 'United Kingdom'}",GBR,2020,-10.296918859171,,,1,GB
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'US', 'value': 'United States'}",USA,2020,-2.16302913866512,,,1,US
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'UY', 'value': 'Uruguay'}",URY,2020,-7.35732706484723,,,1,UY
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'UZ', 'value': 'Uzbekistan'}",UZB,2020,1.56334277260515,,,1,UZ
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'VU', 'value': 'Vanuatu'}",VUT,2020,-4.99249142889525,,,1,VU
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'VE', 'value': 'Venezuela, RB'}",VEN,2020,,,,1,VE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'VN', 'value': 'Viet Nam'}",VNM,2020,2.86541320912272,,,1,VN
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'VI', 'value': 'Virgin Islands (U.S.)'}",VIR,2020,-1.61493817814787,,,1,VI
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'PS', 'value': 'West Bank and Gaza'}",PSE,2020,-11.3184661065134,,,1,PS
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'YE', 'value': 'Yemen, Rep.'}",YEM,2020,,,,1,YE
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZM', 'value': 'Zambia'}",ZMB,2020,-2.78505506545167,,,1,ZM
+"{'id': 'NY.GDP.MKTP.KD.ZG', 'value': 'GDP growth (annual %)'}","{'id': 'ZW', 'value': 'Zimbabwe'}",ZWE,2020,-7.81693284075131,,,1,ZW
