@@ -1,37 +1,28 @@
-CREATE TABLE under5_mortality (
-    id SERIAL PRIMARY KEY,
-    country_name VARCHAR(100),
-    location VARCHAR(100),
-    under5_mortality_rate REAL,
-    abb CHAR(3)
-);
-CREATE TABLE gdp_growth_temp (
-    id SERIAL PRIMARY KEY,
-    country_name VARCHAR(100),
-    country_id CHAR(3),
-    indicator VARCHAR(100),
-    year VARCHAR(10),   -- temporarily as VARCHAR
-    value VARCHAR(50),  -- temporarily as VARCHAR
-    abb CHAR(3)
-);
+CREATE TABLE IF NOT EXISTS mortarlity_clean AS
+SELECT 
+    "Location" AS country_name,
+    "2020 rate"::NUMERIC AS mortarlity_rate,
+    abb
+FROM staging_mortarlity
+WHERE abb IS NOT NULL;
 
-
-COPY under5_mortality(country_name, location, under5_mortality_rate, abb)
-FROM 'F:/project/Healthy Sustainable Development Analysis/mortarlity.csv'
-DELIMITER ','
-CSV HEADER;
-COPY gdp_growth(country_name, country_id, indicator, year, value, abb)
-FROM 'F:/project/Healthy Sustainable Development Analysis/gdp.csv'
-DELIMITER ','
-CSV HEADER;
--- See first 10 rows of mortality
-SELECT * FROM under5_mortality LIMIT 10;
-
--- See first 10 rows of GDP
-SELECT * FROM gdp_growth LIMIT 10;
-
--- Join tables on country abbreviation
-SELECT m.country_name, m.under5_mortality_rate, g.value AS gdp_growth
-FROM under5_mortality m
-JOIN gdp_growth g ON m.abb = g.abb
-LIMIT 20;
+-- Create cleaned GDP table
+CREATE TABLE IF NOT EXISTS gdp_clean AS
+SELECT 
+    country AS country_name,
+    value::NUMERIC AS gdp_growth,
+    abb
+FROM staging_gdp
+WHERE abb IS NOT NULL;
+CREATE TABLE IF NOT EXISTS iso_country_ref AS
+SELECT DISTINCT abb, country_name
+FROM (
+    SELECT abb, "Location" AS country_name FROM staging_mortarlity
+    UNION
+    SELECT abb, country AS country_name FROM staging_gdp
+) AS combined;
+CREATE TABLE IF NOT EXISTS mortarlity_final AS
+SELECT m.country_name, m.mortarlity_rate, g.gdp_growth, m.abb
+FROM mortarlity_clean m
+LEFT JOIN gdp_clean g
+ON m.abb = g.abb;
